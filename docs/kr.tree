@@ -11,8 +11,7 @@
 
     <toc-element toc-title="Get started" id="getting-started.md"/>
 
-    <toc-element toc-title="Take Kotlin tour">
-        <toc-element id="kotlin-tour-welcome.md"/>
+    <toc-element toc-title="Take Kotlin tour" id="kotlin-tour-welcome.md">
         <toc-element id="kotlin-tour-hello-world.md" hidden="true"/>
         <toc-element id="kotlin-tour-basic-types.md" hidden="true"/>
     </toc-element>
